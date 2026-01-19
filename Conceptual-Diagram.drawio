@@ -174,14 +174,14 @@
         <mxCell id="3abjIk1LKu-0KOL3PvFx-15" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="Contine" vertex="1">
           <mxGeometry height="30" width="60" x="440" y="330" as="geometry" />
         </mxCell>
-        <mxCell id="3abjIk1LKu-0KOL3PvFx-17" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="Face parte&amp;nbsp;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;din&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="80" x="430" y="250" as="geometry" />
+        <mxCell id="3abjIk1LKu-0KOL3PvFx-17" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="este inclus" vertex="1">
+          <mxGeometry height="30" width="80" x="430" y="255" as="geometry" />
         </mxCell>
-        <mxCell id="3abjIk1LKu-0KOL3PvFx-18" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="Este vandut" vertex="1">
-          <mxGeometry height="30" width="90" x="440" y="160" as="geometry" />
+        <mxCell id="3abjIk1LKu-0KOL3PvFx-18" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="Este comercializat" vertex="1">
+          <mxGeometry height="30" width="120" x="415" y="160" as="geometry" />
         </mxCell>
-        <mxCell id="3abjIk1LKu-0KOL3PvFx-19" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="Vinde" vertex="1">
-          <mxGeometry height="30" width="50" x="480" y="60" as="geometry" />
+        <mxCell id="3abjIk1LKu-0KOL3PvFx-19" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="Comercializeaza" vertex="1">
+          <mxGeometry height="30" width="110" x="420" y="60" as="geometry" />
         </mxCell>
         <mxCell id="3abjIk1LKu-0KOL3PvFx-22" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="Este procesata" vertex="1">
           <mxGeometry height="30" width="100" x="600" y="330" as="geometry" />
@@ -224,6 +224,27 @@
         </mxCell>
         <mxCell id="3abjIk1LKu-0KOL3PvFx-47" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="M(0)" vertex="1">
           <mxGeometry height="30" width="50" x="515" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kPNOE23qHlrICC-sypkH-7" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="40" />
+            </Array>
+            <mxPoint x="120" y="360" as="sourcePoint" />
+            <mxPoint x="430" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kPNOE23qHlrICC-sypkH-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="1(1)" vertex="1">
+          <mxGeometry height="30" width="40" x="390" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="kPNOE23qHlrICC-sypkH-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="M(0)" vertex="1">
+          <mxGeometry height="30" width="50" x="70" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="kPNOE23qHlrICC-sypkH-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="Este situat la" vertex="1">
+          <mxGeometry height="30" width="90" x="350" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kPNOE23qHlrICC-sypkH-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="Gazduieste" vertex="1">
+          <mxGeometry height="30" width="80" x="120" y="330" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
